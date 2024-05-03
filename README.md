@@ -1,5 +1,5 @@
 <h1 align="center">
-    SCHOOL MANAGEMENT SYSTEM
+    EDUCRAFTER
 </h1>
 
 <h3 align="center">

@@ -39,7 +39,7 @@ The School Management System is a web-based application built using the MERN (Mo
 # Installation
 
 ```sh
-git clone https://github.com/ArshnoorKaur21/EduCrafter.git
+git clone https://github.com/ArshnoorKaur21/Edutopia.git
 ```
 Open 2 terminals in separate windows/tabs.
 
